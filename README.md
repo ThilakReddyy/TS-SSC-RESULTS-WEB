@@ -1,38 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ThilakReddyy/TS-SSC-RESULTS-WEB/main/public/ts-sscresultslogo.png alt="TS-SSC RESULTS" width="100">
+  <br>  
+  <a href="https://vercel.com/">▲ Vercel</a> | <a href="https://nextjs.org/">Next.js</a>
+</div>
 
-## Getting Started
+<h1>TS-SSC Results</h1>
 
-First, run the development server:
+<p>This is a <a href="https://nextjs.org/">Next.js</a> project bootstrapped with <a href="https://github.com/vercel/next.js/tree/canary/packages/create-next-app">create-next-app</a>.</p>
 
-```bash
+<h2>Features</h2>
+
+<ul>
+  <li>Grades  of Particular Student - Provide your roll number in the inbox and click on Results. The Results of the student will be displayed.li>
+  <li>Grades of All Students of Particular School - Provide/Select thee school Name. Results of the all the students in the school are displayed.</li>
+</ul>
+
+<h2>Running locally in development mode</h2>
+
+<p>To get started, just clone the repository and run <code>npm install && npm run dev</code>:</p>
+
+<pre>
+git clone https://github.com/ThilakReddyy/TS-SSC-RESULTS-WEB
+cd TS-SSC-RESULTS-WEB
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+</pre>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>Building and deploying in production</h2>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<p>If you wanted to run this site in production, you should install modules then build the site with <code>npm run build</code> and run it with <code>npm start</code>:</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<pre>
+npm install
+npm run build
+npm start
+</pre>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p>You should run <code>npm run build</code> again any time you make changes to the site.</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p>Open <a href="http://localhost:3000">http://localhost:3000</a> with your browser to see the result.</p>
 
-## Learn More
+<h2>Questions? Need Help? Found a bug?</h2>
 
-To learn more about Next.js, take a look at the following resources:
+<p>If you've got questions about setup, deploying, special feature implementation, or just want to chat with the developer, please feel free to contact me on <a href="mailto:thilakreddypothuganti@gmail.com">email</a>.</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p>Found a bug? Go ahead and <a href="https://github.com/ThilakReddyy/JNTUHRESULTS-SERVICE/issues">submit an issue</a>. And, of course, feel free to submit pull requests with bug fixes or changes to the dev branch.</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p>Also feel free to message me if you have any ideas for small website tools that you can't yet find online. Thanks!</p>
+<h2>Thanks</h2>
+<ul>
+  <li><a href="https://vercel.com/">▲ Vercel</a> for fast deployments served from the edge, hosting our website, downloads, and updates.</li>
+  <li><a href="https://nextjs.org/">Next.js</a> for development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites</li>
+</ul>
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
