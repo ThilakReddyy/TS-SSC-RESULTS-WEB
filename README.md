@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThilakReddyy/TS-SSC-RESULTS-WEB/main/public/ts-sscresultslogo.png alt="TS-SSC RESULTS" width="100">
+  <img src="https://raw.githubusercontent.com/ThilakReddyy/TS-SSC-RESULTS-WEB/main/public/ts-sscresultspnglogo.png" alt="TS-SSC RESULTS" width="100">
   <br>  
   <a href="https://vercel.com/">▲ Vercel</a> | <a href="https://nextjs.org/">Next.js</a>
 </div>
