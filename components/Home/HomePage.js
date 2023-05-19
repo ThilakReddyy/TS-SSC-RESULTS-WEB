@@ -29,7 +29,7 @@ const HomePage = () => {
             {/* Features */}
             <section className="bg-white py-12 px-6 ">
                 <div className="max-w-3xl mx-auto text-center">
-                    <h2 className="text-3xl font-bold text-black mb-8">What's in TS-SSC Results?</h2>
+                    <h2 className="text-3xl font-bold text-black mb-8">What&rsquo;s in TS-SSC Results?</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <div className="border border-gray-200 rounded-lg shadow-md p-6">
                             <h3 className="text-xl font-bold mb-4">Academic Results</h3>
