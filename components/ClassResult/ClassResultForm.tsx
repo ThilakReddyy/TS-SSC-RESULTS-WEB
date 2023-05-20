@@ -56,7 +56,7 @@ const ClassReportForm = ({ setSchoolCode, warning, submit }: ClassReportFormProp
                                 loadOptions={loadOptions}
                                 onChange={handleSelectChange}
                                 defaultOptions
-                                placeholder="Select your School..."
+                                placeholder="Enter your School Name..."
                                 className="py-[0%]"
                             />
                         </div>
