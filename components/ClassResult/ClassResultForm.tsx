@@ -22,7 +22,7 @@ const ClassReportForm = ({ setSchoolCode, warning, submit }: ClassReportFormProp
         setTimeout(() => {
             const filteredOptions = filterOptions(inputValue);
             callback(filteredOptions);
-        }, 1000);
+        }, 100);
     };
 
     useEffect(() => {
